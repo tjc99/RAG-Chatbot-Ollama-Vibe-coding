@@ -44,7 +44,7 @@ pip install -r requirements.txt
 執行以下命令啟動 Gradio 網頁端：
 
 ```bash
-python app.py
+python Local_Ollama_RAG.ipynb
 
 ```
 
