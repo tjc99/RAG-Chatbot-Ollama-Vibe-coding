@@ -25,8 +25,8 @@
 打開終端機，執行以下命令：
 
 ```bash
-git clone [https://github.com/你的用戶名/你的倉庫名.git](https://github.com/你的用戶名/你的倉庫名.git)
-cd 你的倉庫名
+git clone [https://github.com/tjc99/RAG-Chatbot-Ollama-Vibe-coding.git](https://github.com/tjc99/RAG-Chatbot-Ollama-Vibe-coding.git)
+cd RAG-Chatbot-Ollama-Vibe-coding
 
 ```
 
