@@ -1,5 +1,10 @@
+# 忽略 Python 運行緩存
 __pycache__/
 *.pyc
+
+# 忽略 HuggingFace 自動下載模型的緩存數據夾
+.cache/
+
+# 忽略系統臨時文件
 .DS_Store
 Thumbs.db
-.env
